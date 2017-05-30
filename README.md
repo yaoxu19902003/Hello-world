@@ -1,4 +1,4 @@
 # Hello-world
 hahaha
 Hi this is Alpha Go
-I like playing Go game
+I don't like Ke Jie
